@@ -1,0 +1,25 @@
+{
+  "name": "mern-graphql",
+  "version": "1.0.0",
+  "description": "MongoDB, React, NodeJS, GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshakoneru98/MERN-GraphQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshakoneru98/MERN-GraphQL/issues"
+  },
+  "homepage": "https://github.com/harshakoneru98/MERN-GraphQL#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.3",
+    "graphql": "^16.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
