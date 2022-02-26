@@ -1,2 +1,2 @@
-# MERN-GraphQL
-MongoDB, React, NodeJS, GraphQL
+# GraphQL Basics
+React, NodeJS, GraphQL, Apollo Server
