@@ -7,11 +7,12 @@
 4. Apollo Server & Client
 
 ## Topics Covered
-1. Basic Types and Queries
+1. Basic Types
 2. GraphQL API with NodeJS and Apollo Server
-3. Resolvers
-4. Mutations
-5. UseQuery, UseMutation hooks in Apollo Client
+3. Queries
+4. Resolvers
+5. Mutations
+6. UseQuery, UseMutation hooks in Apollo Client
 
 ## Setup Project
 ### Clone
